@@ -5,3 +5,8 @@ num2 = 6.3
 sum = num1 + num2
 
 print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
+
+// adding two numbers
+
+var num1 = 5.3;
+
